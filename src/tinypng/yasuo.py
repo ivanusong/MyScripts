@@ -24,3 +24,6 @@ if __name__ == "__main__":
     pic = sys.argv[1]
     compress_pic(pic)
     print('搞掂!')
+
+
+{'data': {'logs': [{'filename': '<system>', 'timestamp': '08:59:03.131', 'unix_time': 1700096343131, 'level': 'info', 'args': ['脚本环境初始化...']}, {'filename': '<system>', 'timestamp': '08:59:03.133', 'unix_time': 1700096343133, 'level': 'info', 'args': ['已开始执行']}, {'filename': '<system>', 'timestamp': '08:59:03.160', 'unix_time': 1700096343160, 'level': 'info', 'args': ['执行完毕']}], 'result': '[{"姓名":"姓名","年龄":"年龄","性别":"性别"},{"姓名":"神灯","年龄":"男","性别":"送到"},{"姓名":"东方赛","年龄":"腮风赛","性别":"塞给"}]'}, 'error': '', 'status': 'finished'}
